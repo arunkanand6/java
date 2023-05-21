@@ -1,3 +1,3 @@
 <h1>Operators in Java</h1>
-**+** : Addition<br>
+<b>+</b : Addition<br>
 **-** : Substraction
