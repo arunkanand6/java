@@ -1,8 +1,8 @@
-<Style>
+<style>
     td,th{
         border: none!important
     }
-</Style>
+</style>
 
 # Operators
 
